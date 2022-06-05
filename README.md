@@ -1,7 +1,7 @@
 # finding-BMI-using-Python
 def bmi(w, h):
-    a = w / h
-    print(a * a)
+    a = w / h**a
+    print( a)
 
 
 x = float(input("Enter your wheight : "))
